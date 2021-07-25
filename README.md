@@ -14,7 +14,7 @@ cara menjalankan nya di termux
 
 6.    cd Hack-kamera-cctv
 
-7.    python3 Hack-kamera-cctv.py
+7.    python3 kack-kamera-cctv.py
 
 
 cara menjalankan di terminnal Linux
@@ -23,4 +23,4 @@ cara menjalankan di terminnal Linux
 
 2.    cd Hack-kamera-cctv
 
-3.    python3 Hack-kamera-cctv.py
+3.    python3 kack-kamera-cctv.py
