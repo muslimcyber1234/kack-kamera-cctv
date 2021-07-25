@@ -12,15 +12,15 @@ cara menjalankan nya di termux
 
 5.    pip3 install colorama
 
-6.    cd hack-kamera-cctv
+6.    cd Hack-kamera-cctv
 
-7.    python3 cam-hackers.py
+7.    python3 Hack-kamera-cctv.py
 
 
 cara menjalankan di terminnal Linux
 
 1.    git clone https://github.com/muslimcyber1234/kack-kamera-cctv.git
 
-2.    cd hack-kamera-cctv
+2.    cd Hack-kamera-cctv
 
-3.    python3 cam-hackers.py
+3.    python3 Hack-kamera-cctv.py
